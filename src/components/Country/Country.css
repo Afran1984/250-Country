@@ -1,0 +1,12 @@
+.box{
+    border: 2px solid tomato;
+    border-radius: 15px;
+    padding: 15px;
+}
+.visited{
+    background-color: beige;
+}
+.nonViisited{
+    background-color: red;
+    color: black;
+}
